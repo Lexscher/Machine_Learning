@@ -1,3 +1,3 @@
 #### You can get back to the main page
 
-# [Here](https://github.com/Lexscher/learning_R/blob/master/README.md)
+# [Here](https://github.com/Lexscher/Machine_Learning/blob/master/README.md)
