@@ -1,8 +1,13 @@
 # Machine Learning Learning
 
-I'm taking a [Udemy course](https://www.udemy.com/machinelearning/learn/v4/overview) to learn machine learning, and the course teaches you both Python and R. I think I'll just take notes during the sections on R This was I can focus on machine learning with python.
-Then, I'll go back and do all the sections in R.
+I'm taking a [Udemy course](https://www.udemy.com/machinelearning/learn/v4/overview) to learn machine learning, and the course teaches you both Python and R. They also provide us with quite a few resources, like the Machine Learning A-Z Template folder I've just added to this repository.
 
+I'll take notes in the md files, and anything that I'll need to code will be in the Machine Learning A-Z Temp. folder. I'll try to keep this repo as clean as I can. I believe that this _may_ end up being my largest repository, yet! Bare with me.
+
+---
+
+I'll just take notes during the sections on R This was I can focus on machine learning with python.
+Once I've gotten to the end of the course, I'll go back and do all the sections in R.
 These are some things you might need if you're plan to start learning R, as well.
 
 #### [TO DOWNLOAD R](https://cran.r-project.org/)
@@ -10,8 +15,6 @@ These are some things you might need if you're plan to start learning R, as well
 #### [TO DOWNLOAD RStudio](https://www.rstudio.com/)
 
 ---
-
-## I will be putting more notes from this course in this repository as well.
 
 ### Notes
 
