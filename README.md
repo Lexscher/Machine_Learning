@@ -11,6 +11,8 @@ These are some things you might need if you're plan to start learning R, as well
 
 ---
 
+## I will be putting more general ML notes in this repository, as well.
+
 #### Thank you for tanking an interest in my code.
 
 ### Best,
