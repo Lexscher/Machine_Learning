@@ -11,6 +11,8 @@ These are some things you might need if you're plan to start learning R, as well
 
 ---
 
+test
+
 ## I will be putting more notes from this course in this repository as well.
 
 ### Notes
