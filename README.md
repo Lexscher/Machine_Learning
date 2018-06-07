@@ -8,3 +8,11 @@ These are some things you might need if you're plan to start learning R, as well
 #### [TO DOWNLOAD R](https://cran.r-project.org/)
 
 #### [TO DOWNLOAD RStudio](https://www.rstudio.com/)
+
+---
+
+#### Thank you for tanking an interest in my code.
+
+### Best,
+
+## Alexander
