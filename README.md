@@ -6,9 +6,10 @@ I'll take notes in the md files, and anything that I'll need to code will be in 
 
 ---
 
-I'll just take notes during the sections on R This was I can focus on machine learning with python.
+~~I'll just take notes during the sections on R This was I can focus on machine learning with python.
 Once I've gotten to the end of the course, I'll go back and do all the sections in R.
-These are some things you might need if you're plan to start learning R, as well.
+These are some things you might need if you're plan to start learning R, as well.~~
+Ok, Curiosity got the better of me. I'll be learning R at the same time as Python from now on... 😅
 
 #### [TO DOWNLOAD R](https://cran.r-project.org/)
 
@@ -32,7 +33,7 @@ These are some things you might need if you're plan to start learning R, as well
 | Model Selection & Boosting  | [10](https://github.com/Lexscher/Machine_Learning/blob/master/Model-Selection-Boosting.md)   |
 | Bonus Lectures              | [11](https://github.com/Lexscher/Machine_Learning/blob/master/Bonus-Lectures.md)             |
 
-#### Thank you for tanking an interest in my code.
+#### Thank you for taking an interest in my code.
 
 ### Best,
 
