@@ -32,12 +32,24 @@ We can use the file to set our working directory. We'll look into the directory 
 Then we can import the files.
 
 Here's an example of importing the first three columns of the dataset:
-![import datasets](https://github.com/Lexscher/Machine_Learning/blob/master/Images/import_datasets1.png)
-
 ![import datasets 2](https://github.com/Lexscher/Machine_Learning/blob/master/Images/import_datasets2.png)
+
+![import datasets](https://github.com/Lexscher/Machine_Learning/blob/master/Images/import_datasets1.png)
 
 ##### R
 
 It's a tad simpler! We won't have to worry about making a distinction between the matrix of features and the dependent variable vector.
 
-We'll find the directory that contains our Data.csv file, and set _that_ as our working directory.
+We'll find the directory that contains our Data.csv file, and set _that_ as our working directory. Then, in the "console" pane, we'll write:
+
+```
+ dataset = read.csv('Data.csv')
+```
+
+After we run this, we'll see the the dataset in the environment pane:
+
+![import datasets(R)](https://github.com/Lexscher/Machine_Learning/blob/master/Images/import_datasets_R1.png)
+
+Then, all you have to do is click on it:
+
+![import datasets](https://github.com/Lexscher/Machine_Learning/blob/master/Images/import_datasets_R2.png)
