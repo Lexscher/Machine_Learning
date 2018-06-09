@@ -7,9 +7,10 @@ I'll take notes in the md files, and anything that I'll need to code will be in 
 ---
 
 ~~I'll just take notes during the sections on R This was I can focus on machine learning with python.
-Once I've gotten to the end of the course, I'll go back and do all the sections in R.
-These are some things you might need if you're plan to start learning R, as well.~~
-Ok, Curiosity got the better of me. I'll be learning R at the same time as Python from now on... 😅
+Once I've gotten to the end of the course, I'll go back and do all the sections in R.~~
+Ok, curiosity got the better of me. I'll be learning R at the same time as Python from now on... 😅
+
+These are some things you might need if you're plan to start learning R, as well:
 
 #### [TO DOWNLOAD R](https://cran.r-project.org/)
 
