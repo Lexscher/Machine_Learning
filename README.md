@@ -34,6 +34,9 @@ These are some things you might need if you're plan to start learning R, as well
 | Model Selection & Boosting  | [10](https://github.com/Lexscher/Machine_Learning/blob/master/Model-Selection-Boosting.md)   |
 | Bonus Lectures              | [11](https://github.com/Lexscher/Machine_Learning/blob/master/Bonus-Lectures.md)             |
 
+_I take these notes to have a better understanding of the lessons. You may look over them if you'd like to get a better understanding of my thought process while learning.
+Please, reach out to me if you have any questions._
+
 #### Thank you for taking an interest in my code.
 
 ### Best,
