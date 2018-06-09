@@ -32,9 +32,9 @@ We can use the file to set our working directory. We'll look into the directory 
 Then we can import the files.
 
 Here's an example of importing the first three columns of the dataset:
-![import datasets](./images/import_datasets1.png)
+![import datasets](/images/import_datasets1.png)
 
-![import datasets2 ](./images/import_datasets2.png)
+![import datasets2 ](images/import_datasets2.png)
 
 ##### R
 
