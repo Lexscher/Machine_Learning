@@ -21,17 +21,23 @@ There are three libraries that we'll most likely import each time we start a pro
     matplotlib.pyplot
 3.  pandas - helps us with dataset importing & management
 
-##### With R, the libraries are already imported, so we're good on that part.
+##### With R, the libraries are already imported, so we're good on that part. Just hit the _*packages*_ tab, and we'll see a list of all of our available libraries.
 
 ## Importing the datasets
 
 ##### Python
 
-We can use the file to set our working directory. We'll look into the
+We can use the file to set our working directory. We'll look into the directory that contains our Data.csv file, using the File Explorer. Then we press Run🏃‍♀️🏃‍♂️!
 
-Here's an example of us importing the first three columns of the dataset:
-![import datasets](./images/import_dtasets1.png)
+Then we can import the files.
 
-![import datasets 2](./images/import_dtasets2.png)
+Here's an example of importing the first three columns of the dataset:
+![import datasets](./images/import_datasets1.png)
+
+![import datasets2 ](./images/import_datasets2.png)
 
 ##### R
+
+It's a tad simpler! We won't have to worry about making a distinction between the matrix of features and the dependent variable vector.
+
+We'll find the directory that contains our Data.c
