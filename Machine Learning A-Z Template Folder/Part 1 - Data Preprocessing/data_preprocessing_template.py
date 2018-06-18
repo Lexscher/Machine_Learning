@@ -7,8 +7,22 @@ import pandas as pd
 
 # Importing the dataset
 dataset = pd.read_csv('Data.csv')
+
+
+# Independent Variables
+# we take all the columns (:) except the last one (:-1) then get those values(.values)
 X = dataset.iloc[:, :-1].values
+# Dependent Variable Vector
+# we take all the columns (:) we get the last item in the column by its index (:3) then get those values(.values)
 y = dataset.iloc[:, 3].values
+
+
+# Handling the missing data
+from sklearn.preprocessing import Imputer
+imputer = Imputer(missing_values = 'NaN', strategy = 'mean', axis = 0)
+imputer = imputer.fit(X[:, 1:3])
+X[:, 1:3] = imputer.transform(X[:, 1:3])
+
 
 # Splitting the dataset into the Training set and Test set
 from sklearn.cross_validation import train_test_split
