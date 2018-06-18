@@ -169,7 +169,7 @@ When we command enter these lines, and check our dataset, we'll see that the mis
 
 ---
 
-## Splitting the Dataset into the Training set and Test et
+## Splitting the Dataset into the Training set and Test set
 
 ##### Python
 
