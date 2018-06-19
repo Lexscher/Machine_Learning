@@ -191,7 +191,16 @@ X[:, 0] = Xlabelencoder_X.fit_transform(X[:, 0])
 So, we applied the LabelEncoder to all rows (X[*:*_..._) in the the first column( _..._, *0*]).
 ![encoding categorical data: Python](https://github.com/Lexscher/Machine_Learning/blob/master/Images/encoding_categorical_data_Py.png)
 
-But, there may be a problem with this method. When we do this
+But, there may be a problem with this method. When we do this, Python will think Spain is greater than Germany & France, and Germany is greater than France.
+Since we don't want our column's items to have this kind of relationship with one another, we'll import another, called _*OneHotEncoder*_
+
+```py
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+labelencoder_X = LabelEncoder()
+X[:, 0] = Xlabelencoder_X.fit_transform(X[:, 0])
+onehotencoder = OneHotEncoder(categorical_features = 0)
+X = onehotencoder.fit_transform(X).toarray()
+```
 
 ##### R
 
