@@ -64,7 +64,7 @@ If we take a closer look at the dataset, we'll notice that the customer from _Sp
 
 A common practice where missing data is concerned: Replace the missing data with the _mean_ of the values in that same column.
 
-*   _The mean of all the values in the *Age* column will become the value of the missing data in the column where the customer is from *Spain*_
+-   _The mean of all the values in the *Age* column will become the value of the missing data in the column where the customer is from *Spain*_
 
 ##### Python
 
@@ -98,7 +98,7 @@ X[:, 1:3] = imputer.transform(X[:, 1:3])
 ```
 
 The object inspector gave us information about the parameters of the Imputer method (missing*values, strategy, axis, verbose, & copy). We used the parameters that were necessary (missing_values, strategy, & axis).
-The *missing_values* param can be assigned a value that's an \_integer* or _NaN_.
+The *missing*values* param can be assigned a value that's an \_integer* or \_NaN*.
 The _strategy_ param can be assigned a string value, _'mean', 'median', or 'most_frequent'_(imputation strategies).
 The _axis_ param can be assigned a value that's an _integer_, _0 or 1_ (The axis along which to impute).
 
@@ -145,7 +145,7 @@ ave(dataset$Salary, FUN = function(x) mean(x,  na.rm = TRUE))
 
 We use the method, ave, which takes the column, Salary, and gets the average of all the present values, then a function, which uses the method, mean, as a callback.
 
-*   which will take that missing value, x, and replace it with the mean of all the values in the column, Salary.
+-   which will take that missing value, x, and replace it with the mean of all the values in the column, Salary.
 
 The third parameter:
 
@@ -163,7 +163,35 @@ When we command enter these lines, and check our dataset, we'll see that the mis
 
 ## Categorical Data
 
+If we take a closer look at our dataset, we'll see that there are two columns that contain data that can be categorized.
+
+The Country column contains 3 categories:
+France
+Spain
+Germany
+
+The Purchased column contains 2 categories:
+Yes
+No
+
+What we're going to do is _encode_ our _text_ variables into _numbers_, because machine learning models are based on mathematical equations.
+
+You may notice that the methods we use in Python are quite different from the methods we use in R.
+
 ##### Python
+
+We'll have to import the method, _*LabelEncoder*_, that will help us encode our categorical data. We get this from our friendly neighborhood sklearn.
+
+```py
+from sklearn.preprocessing import LabelEncoder
+labelencoder_X = LabelEncoder()
+X[:, 0] = Xlabelencoder_X.fit_transform(X[:, 0])
+```
+
+So, we applied the LabelEncoder to all rows (X[*:*_..._) in the the first column( _..._, *0*]).
+![encoding categorical data: Python](https://github.com/Lexscher/Machine_Learning/blob/master/Images/encoding_categorical_data_Py.png)
+
+But, there may be a problem with this method. When we do this
 
 ##### R
 
