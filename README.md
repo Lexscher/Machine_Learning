@@ -1,14 +1,18 @@
 # Machine Learning Learning
 
+### This Project is on Hold.
+
 I'm taking a [Udemy course](https://www.udemy.com/machinelearning/learn/v4/overview) to learn machine learning, and the course teaches you both Python and R. They also provide us with quite a few resources, like the Machine Learning A-Z Template folder I've just added to this repository.
 
 I'll take notes in the md files, and anything that I'll need to code will be in the Machine Learning A-Z Temp. folder. I'll try to keep this repo as clean as I can. I believe that this _may_ end up being my largest repository, yet! Bare with me.
 
 ---
 
-~~I'll just take notes during the sections on R This was I can focus on machine learning with python.
-Once I've gotten to the end of the course, I'll go back and do all the sections in R.~~
-Ok, curiosity got the better of me. I'll be learning R at the same time as Python from now on... 😅
+I'll just take notes during the sections on R This was I can focus on machine learning with python.
+Once I've gotten to the end of the course, I'll go back and do all the sections in R.
+~~Ok, curiosity got the better of me. I'll be learning R at the same time as Python from now on... 😅~~ _<~ This was starting to feel a tad overwhelming._ Maybe it's because I'm trying to balance ML with my internship, sharpening my math skills (calculus & statistics), _and_ building on my JavaScript skills. I will put this on hold. After I've gotten a stronger foundation in a few other areas, I'll come back.
+
+Thank you for understanding. Feel free to check out everything I've done so far!
 
 These are some things you might need if you're plan to start learning R, as well:
 
