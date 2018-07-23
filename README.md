@@ -1,6 +1,6 @@
 # Machine Learning Learning
 
-### This Project will resume during August.
+### This Project will resume in the beginning August.
 
 I'm taking a [Udemy course](https://www.udemy.com/machinelearning/learn/v4/overview) to learn machine learning, and the course teaches you both Python and R. They also provide us with quite a few resources, like the Machine Learning A-Z Template folder I've just added to this repository.
 
@@ -8,11 +8,11 @@ I'll take notes in the md files, and anything that I'll need to code will be in 
 
 ---
 
-I'll just take notes during the sections on R This was I can focus on machine learning with python.
-Once I've gotten to the end of the course, I'll go back and do all the sections in R.
+~~I'll just take notes during the sections on R This was I can focus on machine learning with python.
+Once I've gotten to the end of the course, I'll go back and do all the sections in R.~~
 Ok, curiosity got the better of me. I'll be learning R at the same time as Python from now on... 😅
 
-Thank you for understanding. Feel free to check out everything I've done so far!
+Feel free to check out everything I've done so far!
 
 These are some things you might need if you're plan to start learning R, as well:
 
