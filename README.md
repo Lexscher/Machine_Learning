@@ -1,6 +1,6 @@
 # Machine Learning Learning
 
-### This Project will resume in the beginning August.
+### This Project will resume soon.
 
 I'm taking a [Udemy course](https://www.udemy.com/machinelearning/learn/v4/overview) to learn machine learning, and the course teaches you both Python and R. They also provide us with quite a few resources, like the Machine Learning A-Z Template folder I've just added to this repository.
 
